@@ -37,9 +37,9 @@ The software presented here was introduced in the following publication:
 
 - Upcoming participation at International Conference for Technological Plasticity 2023, with the working title "Contact conditions and temperature distribution during cryogenic deep drawing with macro-structured tools",
 authored by:
-  - Tulke, Marc (ORCID:0000-0001-9798-8358)
-  - Lafarge, Rémi (ORCID:0000-0002-1319-9261)
-  - Wolf, Alexander (ORCID:0000-0002-1043-7746)
-  - Brosius, Alexander(ORCID:0000-0002-9941-390X)
+  - Tulke, Marc        (ORCID:0000-0001-9798-8358)
+  - Lafarge, Rémi      (ORCID:0000-0002-1319-9261)
+  - Wolf, Alexander    (ORCID:0000-0002-1043-7746)
+  - Brosius, Alexander (ORCID:0000-0002-9941-390X)
 
 If this work is re-used or extended upon in a scientific work, please cite it appropriately.
