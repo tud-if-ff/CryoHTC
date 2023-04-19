@@ -3,8 +3,8 @@
 The accuracy of a thermomechanical simulation depends on thermal parameters and the description of the heat transfer.
 This software enables the determination of the heat transfer coefficient between workpiece and tools,
 based on an experimentally determined temperature development. The challenge here is the continuous change of
-the workpiece temperature and no equilibrium is achieved. The experimental data and a detailed description of
-the experimental setup is published in doi [Link will be inserted].
+the workpiece temperature and no equilibrium is achieved. The experimental data and a description of
+the experimental setup is available at [http://dx.doi.org/10.25532/OPARA-218](http://dx.doi.org/10.25532/OPARA-218).
 
 ## Usage
 Before using the software, please inform yourself about the license in the corresponding section.
